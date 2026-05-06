@@ -365,11 +365,12 @@ redirect_from:
       <article class="yx-research-item">
         <div class="yx-research-visual">ACM-BCB</div>
         <div>
-          <h3>ACM-BCB 2023 poster</h3>
-          <p class="yx-meta">First-author poster · ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, 2023</p>
-          <p>A first-author research poster presented at ACM-BCB 2023.</p>
+          <h3>A Multiscale Systems Biology Model investigating the discordance between PET Imaging and CSF biomarkers in Alzheimer's Disease</h3>
+          <p class="yx-meta">Yang Xiao, Enze Xu, Zifeng Chen, Chunrui Xu, Minghan Chen · First-author poster · ACM-BCB, 2023</p>
+          <p>A first-author poster on multiscale systems biology modeling for PET-CSF biomarker discordance in Alzheimer's disease.</p>
           <div class="yx-actions">
-            <a class="yx-action" href="https://github.com/YangXiao0302/ACM-BCB-2023-Poster.git">poster repository</a>
+            <a class="yx-action" href="/files/research/acm-bcb-2023-poster.pdf">poster</a>
+            <a class="yx-action" href="https://github.com/YangXiao0302/ACM-BCB-2023-Poster.git">repository</a>
           </div>
         </div>
       </article>

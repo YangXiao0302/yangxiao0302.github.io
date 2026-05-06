@@ -63,8 +63,10 @@ Research
 * Audio-language model research
   * Manuscript under review at NeurIPS
   * https://v0-llm-audio-research.vercel.app/
-* ACM-BCB 2023 poster
-  * First-author poster
+* A Multiscale Systems Biology Model investigating the discordance between PET Imaging and CSF biomarkers in Alzheimer's Disease
+  * Yang Xiao, Enze Xu, Zifeng Chen, Chunrui Xu, Minghan Chen
+  * First-author poster, ACM-BCB, 2023
+  * /files/research/acm-bcb-2023-poster.pdf
   * https://github.com/YangXiao0302/ACM-BCB-2023-Poster.git
 
 Selected coursework
