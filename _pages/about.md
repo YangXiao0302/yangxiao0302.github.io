@@ -266,68 +266,10 @@ redirect_from:
     </p>
     <div class="yx-links">
       <a class="yx-link" href="https://github.com/YangXiao0302">GitHub</a>
-      <a class="yx-link" href="https://scholar.google.com/citations?user=m4sJnVsAAAAJ">Google Scholar</a>
       <a class="yx-link" href="/cv/">CV</a>
     </div>
   </section>
 
-  <section class="yx-section" id="research">
-    <h2>Research</h2>
-    <p class="yx-section-note">My research interests center on trustworthy and multimodal AI, computational biology, and mathematical models that make complex systems easier to reason about.</p>
-    <div class="yx-research-grid">
-      <article class="yx-research-item">
-        <img class="yx-research-media" src="/images/research/multiscale-amyloid-tau-progression.jpg" alt="Multiscale amyloid and tau model figure">
-        <div>
-          <h3>A multiscale model to explain the spatiotemporal progression of amyloid beta and tau pathology in Alzheimer's disease</h3>
-          <p class="yx-meta">Chunrui Xu, Enze Xu, Yang Xiao, Defu Yang, Guorong Wu, Minghan Chen · International Journal of Biological Macromolecules, 2025</p>
-          <p>This work develops a multiscale mathematical model linking soluble biomarkers, brain-region diffusion, and insoluble fibril formation to explain PET-CSF discordance and AD progression.</p>
-          <div class="yx-actions">
-            <a class="yx-action" href="/files/research/multiscale-amyloid-tau-progression.pdf">paper</a>
-          </div>
-        </div>
-      </article>
-      <article class="yx-research-item">
-        <img class="yx-research-media" src="/images/research/ampk-regulatory-network-alzheimers.gif" alt="AMPK regulatory network figure">
-        <div>
-          <h3>Modeling of AMPK Regulatory Network in Alzheimer's Disease</h3>
-          <p class="yx-meta">Junsheng Wang, Enze Xu, Yang Xiao, Chunrui Xu, Minghan Chen · IEEE BIBM, 2023</p>
-          <p>This project models AMPK-centered regulatory dynamics in Alzheimer's disease, with emphasis on mRNA translation, autophagy, and potential intervention targets.</p>
-          <div class="yx-actions">
-            <a class="yx-action" href="/files/research/ampk-regulatory-network-alzheimers.pdf">paper</a>
-          </div>
-        </div>
-      </article>
-      <article class="yx-research-item">
-        <div class="yx-research-visual">Audio LLM</div>
-        <div>
-          <h3>Audio-language model research</h3>
-          <p class="yx-meta">Manuscript under review at NeurIPS</p>
-          <p>A current research project on multimodal audio-language modeling. The project page provides a concise interactive overview of the motivation and system design.</p>
-          <div class="yx-actions">
-            <a class="yx-action" href="https://v0-llm-audio-research.vercel.app/">project page</a>
-          </div>
-        </div>
-      </article>
-    </div>
-  </section>
-
-  <section class="yx-section" id="awards">
-    <h2>Awards</h2>
-    <ul class="yx-awards">
-      <li class="yx-award">
-        <h3>NSF Travel Grants</h3>
-        <p class="yx-meta">ACM-BCB · Sep 2023</p>
-      </li>
-      <li class="yx-award">
-        <h3>Wake Forest Research Fellowship</h3>
-        <p class="yx-meta">The URECA Center, Wake Forest University · Mar 2023</p>
-      </li>
-      <li class="yx-award">
-        <h3>GE STAR Scholarship: General Electric</h3>
-        <p class="yx-meta">General Electric · 2021-2022</p>
-      </li>
-    </ul>
-  </section>
 
   <section class="yx-section" id="experience">
     <h2>Experience</h2>
@@ -391,6 +333,76 @@ redirect_from:
         </div>
       </div>
     </div>
+  </section>
+
+  <section class="yx-section" id="research">
+    <h2>Research</h2>
+    <p class="yx-section-note">My research interests center on trustworthy and multimodal AI, computational biology, and mathematical models that make complex systems easier to reason about.</p>
+    <div class="yx-research-grid">
+      <article class="yx-research-item">
+        <img class="yx-research-media" src="/images/research/multiscale-amyloid-tau-progression.jpg" alt="Multiscale amyloid and tau model figure">
+        <div>
+          <h3>A multiscale model to explain the spatiotemporal progression of amyloid beta and tau pathology in Alzheimer's disease</h3>
+          <p class="yx-meta">Chunrui Xu, Enze Xu, Yang Xiao, Defu Yang, Guorong Wu, Minghan Chen · International Journal of Biological Macromolecules, 2025</p>
+          <p>This work develops a multiscale mathematical model linking soluble biomarkers, brain-region diffusion, and insoluble fibril formation to explain PET-CSF discordance and AD progression.</p>
+          <div class="yx-actions">
+            <a class="yx-action" href="/files/research/multiscale-amyloid-tau-progression.pdf">paper</a>
+          </div>
+        </div>
+      </article>
+      <article class="yx-research-item">
+        <img class="yx-research-media" src="/images/research/ampk-regulatory-network-alzheimers.gif" alt="AMPK regulatory network figure">
+        <div>
+          <h3>Modeling of AMPK Regulatory Network in Alzheimer's Disease</h3>
+          <p class="yx-meta">Junsheng Wang, Enze Xu, Yang Xiao, Chunrui Xu, Minghan Chen · IEEE BIBM, 2023</p>
+          <p>This project models AMPK-centered regulatory dynamics in Alzheimer's disease, with emphasis on mRNA translation, autophagy, and potential intervention targets.</p>
+          <div class="yx-actions">
+            <a class="yx-action" href="/files/research/ampk-regulatory-network-alzheimers.pdf">paper</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="yx-research-item">
+        <div class="yx-research-visual">ACM-BCB</div>
+        <div>
+          <h3>ACM-BCB 2023 poster</h3>
+          <p class="yx-meta">First-author poster · ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, 2023</p>
+          <p>A first-author research poster presented at ACM-BCB 2023.</p>
+          <div class="yx-actions">
+            <a class="yx-action" href="https://github.com/YangXiao0302/ACM-BCB-2023-Poster.git">poster repository</a>
+          </div>
+        </div>
+      </article>
+      <article class="yx-research-item">
+        <div class="yx-research-visual">Audio LLM</div>
+        <div>
+          <h3>Audio-language model research</h3>
+          <p class="yx-meta">Manuscript under review at NeurIPS</p>
+          <p>A current research project on multimodal audio-language modeling. The project page provides a concise interactive overview of the motivation and system design.</p>
+          <div class="yx-actions">
+            <a class="yx-action" href="https://v0-llm-audio-research.vercel.app/">project page</a>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <section class="yx-section" id="awards">
+    <h2>Awards</h2>
+    <ul class="yx-awards">
+      <li class="yx-award">
+        <h3>NSF Travel Grants</h3>
+        <p class="yx-meta">ACM-BCB · Sep 2023</p>
+      </li>
+      <li class="yx-award">
+        <h3>Wake Forest Research Fellowship</h3>
+        <p class="yx-meta">The URECA Center, Wake Forest University · Mar 2023</p>
+      </li>
+      <li class="yx-award">
+        <h3>GE STAR Scholarship: General Electric</h3>
+        <p class="yx-meta">General Electric · 2021-2022</p>
+      </li>
+    </ul>
   </section>
 
   <section class="yx-section" id="coursework">

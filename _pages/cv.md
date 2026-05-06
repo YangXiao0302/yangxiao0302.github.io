@@ -63,6 +63,9 @@ Research
 * Audio-language model research
   * Manuscript under review at NeurIPS
   * https://v0-llm-audio-research.vercel.app/
+* ACM-BCB 2023 poster
+  * First-author poster
+  * https://github.com/YangXiao0302/ACM-BCB-2023-Poster.git
 
 Selected coursework
 ======
