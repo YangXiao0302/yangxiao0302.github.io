@@ -343,7 +343,7 @@ redirect_from:
         <div class="yx-research-visual">Audio-PCoT</div>
         <div>
           <h3>Audio-PCoT: Learning When to Think with Reinforcement Learning in Streaming Speech Models</h3>
-          <p class="yx-meta">2026 NEURIPS</p>
+          <p class="yx-meta">Under review by NeurIPS</p>
           <p>A current research project on reinforcement learning for streaming speech models, focused on learning when to perform intermediate reasoning during audio-language processing.</p>
           <div class="yx-actions">
             <a class="yx-action" href="https://v0-llm-audio-research.vercel.app/">project page</a>

@@ -53,7 +53,7 @@ Awards
 Research
 ======
 * Audio-PCoT: Learning When to Think with Reinforcement Learning in Streaming Speech Models
-  * 2026 NEURIPS
+  * Under review by NeurIPS
   * https://v0-llm-audio-research.vercel.app/
 * A Multiscale Systems Biology Model investigating the discordance between PET Imaging and CSF biomarkers in Alzheimer's Disease
   * **Yang Xiao**, Enze Xu, Zifeng Chen, Chunrui Xu, Minghan Chen
