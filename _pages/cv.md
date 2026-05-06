@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Science in Engineering, Computer and Information Sciences, AI/ML Concentration, University of Pennsylvania, Aug 2025 - May 2027
+  * GPA: 3.9/4.0
+  * Focus: Artificial Intelligence, Distributed Systems
+* Bachelor of Science, Applied Mathematics; Computer Science, Wake Forest University, 2021 - 2025
+  * GPA: 3.9/4.0
+  * Focus: Mathematical Modeling, Java
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2026 - Present: Software Engineer Intern
+  * Amazon
+  * Seattle, Washington, United States · On-site
+* Jan 2026 - Present: Graduate Research Assistant
+  * Penn Engineering AI
+  * Philadelphia, Pennsylvania, United States · On-site
+  * Research on multimodal large language models.
+* Oct 2022 - Apr 2025: Undergraduate Research Assistant
+  * Wake Forest University
+  * Winston-Salem, North Carolina, United States
+  * Interdisciplinary research on machine learning, applied mathematics, and biology.
+* Jun 2024 - Sep 2024: Machine Learning Engineer
+  * PARATERA
+  * Beijing, China · On-site
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Artificial Intelligence
+* Large Language Models
+* Machine Learning
+* Data Modeling
+* Distributed Systems
+* Mathematical Modeling
+* Java
