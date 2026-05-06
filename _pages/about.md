@@ -340,13 +340,25 @@ redirect_from:
     <p class="yx-section-note">My research interests center on trustworthy and multimodal AI, computational biology, and mathematical models that make complex systems easier to reason about.</p>
     <div class="yx-research-grid">
       <article class="yx-research-item">
-        <img class="yx-research-media" src="/images/research/multiscale-amyloid-tau-progression.jpg" alt="Multiscale amyloid and tau model figure">
+        <div class="yx-research-visual">Audio-PCoT</div>
         <div>
-          <h3>A multiscale model to explain the spatiotemporal progression of amyloid beta and tau pathology in Alzheimer's disease</h3>
-          <p class="yx-meta">Chunrui Xu, Enze Xu, Yang Xiao, Defu Yang, Guorong Wu, Minghan Chen · International Journal of Biological Macromolecules, 2025</p>
-          <p>This work develops a multiscale mathematical model linking soluble biomarkers, brain-region diffusion, and insoluble fibril formation to explain PET-CSF discordance and AD progression.</p>
+          <h3>Audio-PCoT: Learning When to Think with Reinforcement Learning in Streaming Speech Models</h3>
+          <p class="yx-meta">2026 NEURIPS</p>
+          <p>A current research project on reinforcement learning for streaming speech models, focused on learning when to perform intermediate reasoning during audio-language processing.</p>
           <div class="yx-actions">
-            <a class="yx-action" href="/files/research/multiscale-amyloid-tau-progression.pdf">paper</a>
+            <a class="yx-action" href="https://v0-llm-audio-research.vercel.app/">project page</a>
+          </div>
+        </div>
+      </article>
+      <article class="yx-research-item">
+        <img class="yx-research-media" src="/images/research/acm-bcb-2023-poster.jpg" alt="ACM-BCB 2023 poster preview">
+        <div>
+          <h3>A Multiscale Systems Biology Model investigating the discordance between PET Imaging and CSF biomarkers in Alzheimer's Disease</h3>
+          <p class="yx-meta">Yang Xiao, Enze Xu, Zifeng Chen, Chunrui Xu, Minghan Chen · First-author poster · ACM-BCB, 2023</p>
+          <p>A first-author poster on multiscale systems biology modeling for PET-CSF biomarker discordance in Alzheimer's disease.</p>
+          <div class="yx-actions">
+            <a class="yx-action" href="/files/research/acm-bcb-2023-poster.pdf">poster</a>
+            <a class="yx-action" href="https://github.com/YangXiao0302/ACM-BCB-2023-Poster.git">repository</a>
           </div>
         </div>
       </article>
@@ -361,27 +373,14 @@ redirect_from:
           </div>
         </div>
       </article>
-
       <article class="yx-research-item">
-        <img class="yx-research-media" src="/images/research/acm-bcb-2023-poster.jpg" alt="ACM-BCB 2023 poster preview">
+        <img class="yx-research-media" src="/images/research/multiscale-amyloid-tau-progression.jpg" alt="Multiscale amyloid and tau model figure">
         <div>
-          <h3>A Multiscale Systems Biology Model investigating the discordance between PET Imaging and CSF biomarkers in Alzheimer's Disease</h3>
-          <p class="yx-meta">Yang Xiao, Enze Xu, Zifeng Chen, Chunrui Xu, Minghan Chen · First-author poster · ACM-BCB, 2023</p>
-          <p>A first-author poster on multiscale systems biology modeling for PET-CSF biomarker discordance in Alzheimer's disease.</p>
+          <h3>A multiscale model to explain the spatiotemporal progression of amyloid beta and tau pathology in Alzheimer's disease</h3>
+          <p class="yx-meta">Chunrui Xu, Enze Xu, Yang Xiao, Defu Yang, Guorong Wu, Minghan Chen · International Journal of Biological Macromolecules, 2025</p>
+          <p>This work develops a multiscale mathematical model linking soluble biomarkers, brain-region diffusion, and insoluble fibril formation to explain PET-CSF discordance and AD progression.</p>
           <div class="yx-actions">
-            <a class="yx-action" href="/files/research/acm-bcb-2023-poster.pdf">poster</a>
-            <a class="yx-action" href="https://github.com/YangXiao0302/ACM-BCB-2023-Poster.git">repository</a>
-          </div>
-        </div>
-      </article>
-      <article class="yx-research-item">
-        <div class="yx-research-visual">Audio LLM</div>
-        <div>
-          <h3>Audio-language model research</h3>
-          <p class="yx-meta">Manuscript under review at NeurIPS</p>
-          <p>A current research project on multimodal audio-language modeling. The project page provides a concise interactive overview of the motivation and system design.</p>
-          <div class="yx-actions">
-            <a class="yx-action" href="https://v0-llm-audio-research.vercel.app/">project page</a>
+            <a class="yx-action" href="/files/research/multiscale-amyloid-tau-progression.pdf">paper</a>
           </div>
         </div>
       </article>
