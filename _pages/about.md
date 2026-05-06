@@ -363,7 +363,7 @@ redirect_from:
       </article>
 
       <article class="yx-research-item">
-        <div class="yx-research-visual">ACM-BCB</div>
+        <img class="yx-research-media" src="/images/research/acm-bcb-2023-poster.jpg" alt="ACM-BCB 2023 poster preview">
         <div>
           <h3>A Multiscale Systems Biology Model investigating the discordance between PET Imaging and CSF biomarkers in Alzheimer's Disease</h3>
           <p class="yx-meta">Yang Xiao, Enze Xu, Zifeng Chen, Chunrui Xu, Minghan Chen · First-author poster · ACM-BCB, 2023</p>
