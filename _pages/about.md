@@ -69,7 +69,7 @@ Experience
 
 <div class="profile-list">
   <div class="profile-entry">
-    <img class="profile-logo" src="/logo/amazon_logo.jpeg" alt="Amazon logo">
+    <img class="profile-logo" src="/images/logos/amazon_logo.jpeg" alt="Amazon logo">
     <div>
       <h3>Software Engineer Intern</h3>
       <p>Amazon · Internship</p>
@@ -77,7 +77,7 @@ Experience
     </div>
   </div>
   <div class="profile-entry">
-    <img class="profile-logo" src="/logo/pennengai_logo.jpeg" alt="Penn Engineering AI logo">
+    <img class="profile-logo" src="/images/logos/pennengai_logo.jpeg" alt="Penn Engineering AI logo">
     <div>
       <h3>Graduate Research Assistant</h3>
       <p>Penn Engineering AI · Part-time</p>
@@ -86,7 +86,7 @@ Experience
     </div>
   </div>
   <div class="profile-entry">
-    <img class="profile-logo" src="/logo/1631353711171.jpeg" alt="Wake Forest University logo">
+    <img class="profile-logo" src="/images/logos/1631353711171.jpeg" alt="Wake Forest University logo">
     <div>
       <h3>Undergraduate Research Assistant</h3>
       <p>Wake Forest University · Part-time</p>
@@ -95,7 +95,7 @@ Experience
     </div>
   </div>
   <div class="profile-entry">
-    <img class="profile-logo" src="/logo/paratera.jpeg" alt="PARATERA logo">
+    <img class="profile-logo" src="/images/logos/paratera.jpeg" alt="PARATERA logo">
     <div>
       <h3>Machine Learning Engineer</h3>
       <p>PARATERA · Internship</p>
@@ -109,7 +109,7 @@ Education
 
 <div class="profile-list">
   <div class="profile-entry">
-    <img class="profile-logo" src="/logo/university_of_pennsylvania_logo.jpeg" alt="University of Pennsylvania logo">
+    <img class="profile-logo" src="/images/logos/university_of_pennsylvania_logo.jpeg" alt="University of Pennsylvania logo">
     <div>
       <h3>University of Pennsylvania</h3>
       <p>Master of Science in Engineering, Computer and Information Sciences, AI/ML Concentration</p>
@@ -119,7 +119,7 @@ Education
     </div>
   </div>
   <div class="profile-entry">
-    <img class="profile-logo" src="/logo/1631353711171.jpeg" alt="Wake Forest University logo">
+    <img class="profile-logo" src="/images/logos/1631353711171.jpeg" alt="Wake Forest University logo">
     <div>
       <h3>Wake Forest University</h3>
       <p>Bachelor of Science, Applied Mathematics; Computer Science</p>
