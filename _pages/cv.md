@@ -44,3 +44,39 @@ Skills
 * Distributed Systems
 * Mathematical Modeling
 * Java
+
+Selected coursework
+======
+* University of Pennsylvania - Computer Science
+  * CIS 5050 Software Systems - A-
+  * CIS 5200 Machine Learning - A
+  * CIS 5500 Database & Information Systems - A-
+  * BE 5210 Brain-Computer Interfaces - A
+  * CIS 5110 Theory of Computation - A
+  * CIS 5450 Big Data Analytics - A
+  * CIS 5020 Analysis of Algorithms - A
+  * CIS 5150 Fundamentals of Linear Algebra and Optimization - A
+* Wake Forest University - Mathematics
+  * MST 117 Discrete Mathematics - A
+  * MST 121 Linear Algebra I - A-
+  * MST 251 Ordinary Differential Equations - A
+  * MTH 113 Multivariable Calculus - A
+  * MTH 351 Introduction to Mathematical Modeling - A
+  * STA 310 Probability - A-
+  * MTH 347 Graph Theory - A
+  * MTH 352 Partial Differential Equations - A
+  * MTH 311 Introductory Real Analysis I - A
+  * MTH 326 Numerical Linear Algebra - A
+  * STA 312 Linear Models - A-
+  * MTH 225 Linear Algebra II - A
+  * MTH 253 Operations Research - A
+  * MTH 317 Complex Analysis I - A
+* Wake Forest University - Computer Science
+  * CSC 111 Introduction to Computer Science - A
+  * CSC 112 Fundamentals of Computer Science - A
+  * CSC 201 Data Structures and Algorithms - A
+  * CSC 231 Programming Languages - A
+  * CSC 391 Algorithms in Bioinformatics - A
+  * CSC 375 Neural Networks and Deep Learning - A
+  * CSC 250 Computer Systems I - A
+  * CSC 331 Software Engineering - A

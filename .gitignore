@@ -21,3 +21,6 @@ package-lock.json
 
 # Ignore macOS metadata files
 .DS_Store
+
+# Ignore private transcript files
+*Transcript*.pdf

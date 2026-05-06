@@ -23,7 +23,7 @@ repository               : "YangXiao0302/yangxiao0302.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "YangXiao_2inch.jpg"
   name             : "Yang Xiao"
   pronouns         : # example: "she/her"  
   bio              : "MSE student at Penn Engineering focused on AI/ML, multimodal LLMs, and software engineering."

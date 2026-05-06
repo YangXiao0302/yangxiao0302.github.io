@@ -51,6 +51,40 @@ I am currently a Software Engineer Intern at Amazon and a Graduate Research Assi
     color: #5f6368;
   }
 
+  .course-groups {
+    display: grid;
+    gap: 1.1rem;
+    margin-top: 1rem;
+  }
+
+  .course-group {
+    padding: 0.9rem 0;
+    border-bottom: 1px solid #e5e5e5;
+  }
+
+  .course-group:last-child {
+    border-bottom: 0;
+  }
+
+  .course-group h3 {
+    margin: 0 0 0.35rem;
+    font-size: 1rem;
+  }
+
+  .course-group h4 {
+    margin: 0.9rem 0 0.3rem;
+    font-size: 0.92rem;
+  }
+
+  .course-list {
+    margin: 0;
+    padding-left: 1.15rem;
+  }
+
+  .course-list li {
+    margin: 0.2rem 0;
+  }
+
   @media (max-width: 600px) {
     .profile-entry {
       grid-template-columns: 44px minmax(0, 1fr);
@@ -127,5 +161,56 @@ Education
       <p>Grade: 3.9/4.0</p>
       <p>Focus: Mathematical Modeling, Java</p>
     </div>
+  </div>
+</div>
+
+Selected Coursework
+======
+
+<div class="course-groups">
+  <div class="course-group">
+    <h3>University of Pennsylvania</h3>
+    <h4>Computer Science</h4>
+    <ul class="course-list">
+      <li>CIS 5050 Software Systems - A-</li>
+      <li>CIS 5200 Machine Learning - A</li>
+      <li>CIS 5500 Database &amp; Information Systems - A-</li>
+      <li>BE 5210 Brain-Computer Interfaces - A</li>
+      <li>CIS 5110 Theory of Computation - A</li>
+      <li>CIS 5450 Big Data Analytics - A</li>
+      <li>CIS 5020 Analysis of Algorithms - A</li>
+      <li>CIS 5150 Fundamentals of Linear Algebra and Optimization - A</li>
+    </ul>
+  </div>
+  <div class="course-group">
+    <h3>Wake Forest University</h3>
+    <h4>Mathematics</h4>
+    <ul class="course-list">
+      <li>MST 117 Discrete Mathematics - A</li>
+      <li>MST 121 Linear Algebra I - A-</li>
+      <li>MST 251 Ordinary Differential Equations - A</li>
+      <li>MTH 113 Multivariable Calculus - A</li>
+      <li>MTH 351 Introduction to Mathematical Modeling - A</li>
+      <li>STA 310 Probability - A-</li>
+      <li>MTH 347 Graph Theory - A</li>
+      <li>MTH 352 Partial Differential Equations - A</li>
+      <li>MTH 311 Introductory Real Analysis I - A</li>
+      <li>MTH 326 Numerical Linear Algebra - A</li>
+      <li>STA 312 Linear Models - A-</li>
+      <li>MTH 225 Linear Algebra II - A</li>
+      <li>MTH 253 Operations Research - A</li>
+      <li>MTH 317 Complex Analysis I - A</li>
+    </ul>
+    <h4>Computer Science</h4>
+    <ul class="course-list">
+      <li>CSC 111 Introduction to Computer Science - A</li>
+      <li>CSC 112 Fundamentals of Computer Science - A</li>
+      <li>CSC 201 Data Structures and Algorithms - A</li>
+      <li>CSC 231 Programming Languages - A</li>
+      <li>CSC 391 Algorithms in Bioinformatics - A</li>
+      <li>CSC 375 Neural Networks and Deep Learning - A</li>
+      <li>CSC 250 Computer Systems I - A</li>
+      <li>CSC 331 Software Engineering - A</li>
+    </ul>
   </div>
 </div>
