@@ -16,7 +16,7 @@ Education
   * Focus: Artificial Intelligence, Distributed Systems
 * Bachelor of Science, Applied Mathematics; Computer Science, Wake Forest University, 2021 - 2025
   * GPA: 3.9/4.0
-  * Focus: Mathematical Modeling, Java
+  * Focus: Mathematical Modeling, Computer Science
 
 Work experience
 ======
@@ -43,7 +43,26 @@ Skills
 * Data Modeling
 * Distributed Systems
 * Mathematical Modeling
-* Java
+
+Awards
+======
+* NSF Travel Grants, ACM-BCB, Sep 2023
+* Wake Forest Research Fellowship, The URECA Center - Wake Forest University, Mar 2023
+* GE STAR Scholarship: General Electric, 2021-2022
+
+Research
+======
+* A multiscale model to explain the spatiotemporal progression of amyloid beta and tau pathology in Alzheimer's disease
+  * Chunrui Xu, Enze Xu, Yang Xiao, Defu Yang, Guorong Wu, Minghan Chen
+  * International Journal of Biological Macromolecules, 2025
+  * /files/research/multiscale-amyloid-tau-progression.pdf
+* Modeling of AMPK Regulatory Network in Alzheimer's Disease
+  * Junsheng Wang, Enze Xu, Yang Xiao, Chunrui Xu, Minghan Chen
+  * IEEE BIBM, 2023
+  * /files/research/ampk-regulatory-network-alzheimers.pdf
+* Audio-language model research
+  * Manuscript under review at NeurIPS
+  * https://v0-llm-audio-research.vercel.app/
 
 Selected coursework
 ======
@@ -57,6 +76,8 @@ Selected coursework
   * CIS 5450 Big Data Analytics - A
   * CIS 5500 Database & Information Systems - A-
 * Wake Forest University - Mathematics
+  * AP Credits: MST111: Calculus I
+  * AP Credits: MST112: Calculus II
   * MTH 113 Multivariable Calculus - A
   * MST 117 Discrete Mathematics - A
   * MST 121 Linear Algebra I - A-
