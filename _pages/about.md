@@ -184,7 +184,7 @@ redirect_from:
 
   .yx-entry {
     display: grid;
-    grid-template-columns: 52px minmax(0, 1fr);
+    grid-template-columns: 66px minmax(0, 1fr);
     gap: 0.9rem;
     align-items: start;
     padding: 0.95rem 0;
@@ -196,8 +196,8 @@ redirect_from:
   }
 
   .yx-logo {
-    width: 48px;
-    height: 48px;
+    width: 60px;
+    height: 60px;
     border-radius: 8px;
     object-fit: contain;
     background: #fff;
@@ -243,13 +243,13 @@ redirect_from:
     }
 
     .yx-entry {
-      grid-template-columns: 44px minmax(0, 1fr);
+      grid-template-columns: 48px minmax(0, 1fr);
       gap: 0.75rem;
     }
 
     .yx-logo {
-      width: 40px;
-      height: 40px;
+      width: 44px;
+      height: 44px;
     }
   }
 </style>
@@ -354,7 +354,7 @@ redirect_from:
         <img class="yx-research-media" src="/images/research/acm-bcb-2023-poster.jpg" alt="ACM-BCB 2023 poster preview">
         <div>
           <h3>A Multiscale Systems Biology Model investigating the discordance between PET Imaging and CSF biomarkers in Alzheimer's Disease</h3>
-          <p class="yx-meta">Yang Xiao, Enze Xu, Zifeng Chen, Chunrui Xu, Minghan Chen · First-author poster · ACM-BCB, 2023</p>
+          <p class="yx-meta"><strong>Yang Xiao</strong>, Enze Xu, Zifeng Chen, Chunrui Xu, Minghan Chen · First-author poster · ACM-BCB, 2023</p>
           <p>A first-author poster on multiscale systems biology modeling for PET-CSF biomarker discordance in Alzheimer's disease.</p>
           <div class="yx-actions">
             <a class="yx-action" href="/files/research/acm-bcb-2023-poster.pdf">poster</a>
@@ -366,7 +366,7 @@ redirect_from:
         <img class="yx-research-media" src="/images/research/ampk-regulatory-network-alzheimers.gif" alt="AMPK regulatory network figure">
         <div>
           <h3>Modeling of AMPK Regulatory Network in Alzheimer's Disease</h3>
-          <p class="yx-meta">Junsheng Wang, Enze Xu, Yang Xiao, Chunrui Xu, Minghan Chen · IEEE BIBM, 2023</p>
+          <p class="yx-meta">Junsheng Wang, Enze Xu, <strong>Yang Xiao</strong>, Chunrui Xu, Minghan Chen · IEEE BIBM, 2023</p>
           <p>This project models AMPK-centered regulatory dynamics in Alzheimer's disease, with emphasis on mRNA translation, autophagy, and potential intervention targets.</p>
           <div class="yx-actions">
             <a class="yx-action" href="/files/research/ampk-regulatory-network-alzheimers.pdf">paper</a>
@@ -377,7 +377,7 @@ redirect_from:
         <img class="yx-research-media" src="/images/research/multiscale-amyloid-tau-progression.jpg" alt="Multiscale amyloid and tau model figure">
         <div>
           <h3>A multiscale model to explain the spatiotemporal progression of amyloid beta and tau pathology in Alzheimer's disease</h3>
-          <p class="yx-meta">Chunrui Xu, Enze Xu, Yang Xiao, Defu Yang, Guorong Wu, Minghan Chen · International Journal of Biological Macromolecules, 2025</p>
+          <p class="yx-meta">Chunrui Xu, Enze Xu, <strong>Yang Xiao</strong>, Defu Yang, Guorong Wu, Minghan Chen · International Journal of Biological Macromolecules, 2025</p>
           <p>This work develops a multiscale mathematical model linking soluble biomarkers, brain-region diffusion, and insoluble fibril formation to explain PET-CSF discordance and AD progression.</p>
           <div class="yx-actions">
             <a class="yx-action" href="/files/research/multiscale-amyloid-tau-progression.pdf">paper</a>
