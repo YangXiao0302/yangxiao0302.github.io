@@ -48,29 +48,29 @@ Skills
 Selected coursework
 ======
 * University of Pennsylvania - Computer Science
-  * CIS 5050 Software Systems - A-
-  * CIS 5200 Machine Learning - A
-  * CIS 5500 Database & Information Systems - A-
-  * BE 5210 Brain-Computer Interfaces - A
-  * CIS 5110 Theory of Computation - A
-  * CIS 5450 Big Data Analytics - A
   * CIS 5020 Analysis of Algorithms - In Progress
+  * CIS 5050 Software Systems - A-
+  * CIS 5110 Theory of Computation - A
   * CIS 5150 Fundamentals of Linear Algebra and Optimization - In Progress
+  * CIS 5200 Machine Learning - A
+  * BE 5210 Brain-Computer Interfaces - A
+  * CIS 5450 Big Data Analytics - A
+  * CIS 5500 Database & Information Systems - A-
 * Wake Forest University - Mathematics
+  * MTH 113 Multivariable Calculus - A
   * MST 117 Discrete Mathematics - A
   * MST 121 Linear Algebra I - A-
-  * MST 251 Ordinary Differential Equations - A
-  * MTH 113 Multivariable Calculus - A
-  * MTH 351 Introduction to Mathematical Modeling - A
-  * STA 310 Probability - A-
-  * MTH 347 Graph Theory - A
-  * MTH 352 Partial Differential Equations - A
-  * MTH 311 Introductory Real Analysis I - A
-  * MTH 326 Numerical Linear Algebra - A
-  * STA 312 Linear Models - A-
   * MTH 225 Linear Algebra II - A
+  * MST 251 Ordinary Differential Equations - A
   * MTH 253 Operations Research - A
+  * STA 310 Probability - A-
+  * MTH 311 Introductory Real Analysis I - A
+  * STA 312 Linear Models - A-
   * MTH 317 Complex Analysis I - A
+  * MTH 326 Numerical Linear Algebra - A
+  * MTH 347 Graph Theory - A
+  * MTH 351 Introduction to Mathematical Modeling - A
+  * MTH 352 Partial Differential Equations - A
 * Wake Forest University - Computer Science
   * CSC 111 Introduction to Computer Science - A
   * CSC 112 Fundamentals of Computer Science - A

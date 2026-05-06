@@ -172,34 +172,34 @@ Selected Coursework
     <h3>University of Pennsylvania</h3>
     <h4>Computer Science</h4>
     <ul class="course-list">
-      <li>CIS 5050 Software Systems - A-</li>
-      <li>CIS 5200 Machine Learning - A</li>
-      <li>CIS 5500 Database &amp; Information Systems - A-</li>
-      <li>BE 5210 Brain-Computer Interfaces - A</li>
-      <li>CIS 5110 Theory of Computation - A</li>
-      <li>CIS 5450 Big Data Analytics - A</li>
       <li>CIS 5020 Analysis of Algorithms - In Progress</li>
+      <li>CIS 5050 Software Systems - A-</li>
+      <li>CIS 5110 Theory of Computation - A</li>
       <li>CIS 5150 Fundamentals of Linear Algebra and Optimization - In Progress</li>
+      <li>CIS 5200 Machine Learning - A</li>
+      <li>BE 5210 Brain-Computer Interfaces - A</li>
+      <li>CIS 5450 Big Data Analytics - A</li>
+      <li>CIS 5500 Database &amp; Information Systems - A-</li>
     </ul>
   </div>
   <div class="course-group">
     <h3>Wake Forest University</h3>
     <h4>Mathematics</h4>
     <ul class="course-list">
+      <li>MTH 113 Multivariable Calculus - A</li>
       <li>MST 117 Discrete Mathematics - A</li>
       <li>MST 121 Linear Algebra I - A-</li>
-      <li>MST 251 Ordinary Differential Equations - A</li>
-      <li>MTH 113 Multivariable Calculus - A</li>
-      <li>MTH 351 Introduction to Mathematical Modeling - A</li>
-      <li>STA 310 Probability - A-</li>
-      <li>MTH 347 Graph Theory - A</li>
-      <li>MTH 352 Partial Differential Equations - A</li>
-      <li>MTH 311 Introductory Real Analysis I - A</li>
-      <li>MTH 326 Numerical Linear Algebra - A</li>
-      <li>STA 312 Linear Models - A-</li>
       <li>MTH 225 Linear Algebra II - A</li>
+      <li>MST 251 Ordinary Differential Equations - A</li>
       <li>MTH 253 Operations Research - A</li>
+      <li>STA 310 Probability - A-</li>
+      <li>MTH 311 Introductory Real Analysis I - A</li>
+      <li>STA 312 Linear Models - A-</li>
       <li>MTH 317 Complex Analysis I - A</li>
+      <li>MTH 326 Numerical Linear Algebra - A</li>
+      <li>MTH 347 Graph Theory - A</li>
+      <li>MTH 351 Introduction to Mathematical Modeling - A</li>
+      <li>MTH 352 Partial Differential Equations - A</li>
     </ul>
     <h4>Computer Science</h4>
     <ul class="course-list">
