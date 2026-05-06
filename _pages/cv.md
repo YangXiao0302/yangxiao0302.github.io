@@ -55,6 +55,10 @@ Research
 * Audio-PCoT: Learning When to Think with Reinforcement Learning in Streaming Speech Models
   * Under review by NeurIPS
   * https://v0-llm-audio-research.vercel.app/
+* A multiscale model to explain the spatiotemporal progression of amyloid beta and tau pathology in Alzheimer's disease
+  * Chunrui Xu, Enze Xu, **Yang Xiao**, Defu Yang, Guorong Wu, Minghan Chen
+  * International Journal of Biological Macromolecules, 2025
+  * /files/research/multiscale-amyloid-tau-progression.pdf
 * A Multiscale Systems Biology Model investigating the discordance between PET Imaging and CSF biomarkers in Alzheimer's Disease
   * **Yang Xiao**, Enze Xu, Zifeng Chen, Chunrui Xu, Minghan Chen
   * First-author poster, ACM-BCB, 2023
@@ -64,11 +68,6 @@ Research
   * Junsheng Wang, Enze Xu, **Yang Xiao**, Chunrui Xu, Minghan Chen
   * IEEE BIBM, 2023
   * /files/research/ampk-regulatory-network-alzheimers.pdf
-* A multiscale model to explain the spatiotemporal progression of amyloid beta and tau pathology in Alzheimer's disease
-  * Chunrui Xu, Enze Xu, **Yang Xiao**, Defu Yang, Guorong Wu, Minghan Chen
-  * International Journal of Biological Macromolecules, 2025
-  * /files/research/multiscale-amyloid-tau-progression.pdf
-
 Selected coursework
 ======
 * University of Pennsylvania - Computer Science

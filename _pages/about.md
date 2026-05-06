@@ -351,6 +351,17 @@ redirect_from:
         </div>
       </article>
       <article class="yx-research-item">
+        <img class="yx-research-media" src="/images/research/multiscale-amyloid-tau-progression.jpg" alt="Multiscale amyloid and tau model figure">
+        <div>
+          <h3>A multiscale model to explain the spatiotemporal progression of amyloid beta and tau pathology in Alzheimer's disease</h3>
+          <p class="yx-meta">Chunrui Xu, Enze Xu, <strong>Yang Xiao</strong>, Defu Yang, Guorong Wu, Minghan Chen · International Journal of Biological Macromolecules, 2025</p>
+          <p>This work develops a multiscale mathematical model linking soluble biomarkers, brain-region diffusion, and insoluble fibril formation to explain PET-CSF discordance and AD progression.</p>
+          <div class="yx-actions">
+            <a class="yx-action" href="/files/research/multiscale-amyloid-tau-progression.pdf">paper</a>
+          </div>
+        </div>
+      </article>
+      <article class="yx-research-item">
         <img class="yx-research-media" src="/images/research/acm-bcb-2023-poster.jpg" alt="ACM-BCB 2023 poster preview">
         <div>
           <h3>A Multiscale Systems Biology Model investigating the discordance between PET Imaging and CSF biomarkers in Alzheimer's Disease</h3>
@@ -370,17 +381,6 @@ redirect_from:
           <p>This project models AMPK-centered regulatory dynamics in Alzheimer's disease, with emphasis on mRNA translation, autophagy, and potential intervention targets.</p>
           <div class="yx-actions">
             <a class="yx-action" href="/files/research/ampk-regulatory-network-alzheimers.pdf">paper</a>
-          </div>
-        </div>
-      </article>
-      <article class="yx-research-item">
-        <img class="yx-research-media" src="/images/research/multiscale-amyloid-tau-progression.jpg" alt="Multiscale amyloid and tau model figure">
-        <div>
-          <h3>A multiscale model to explain the spatiotemporal progression of amyloid beta and tau pathology in Alzheimer's disease</h3>
-          <p class="yx-meta">Chunrui Xu, Enze Xu, <strong>Yang Xiao</strong>, Defu Yang, Guorong Wu, Minghan Chen · International Journal of Biological Macromolecules, 2025</p>
-          <p>This work develops a multiscale mathematical model linking soluble biomarkers, brain-region diffusion, and insoluble fibril formation to explain PET-CSF discordance and AD progression.</p>
-          <div class="yx-actions">
-            <a class="yx-action" href="/files/research/multiscale-amyloid-tau-progression.pdf">paper</a>
           </div>
         </div>
       </article>
