@@ -210,6 +210,7 @@ Selected Coursework
       <li>CSC 391 Algorithms in Bioinformatics - A</li>
       <li>CSC 375 Neural Networks and Deep Learning - A</li>
       <li>CSC 250 Computer Systems I - A</li>
+      <li>CSC 251 Computer Systems II - A</li>
       <li>CSC 331 Software Engineering - A</li>
     </ul>
   </div>
