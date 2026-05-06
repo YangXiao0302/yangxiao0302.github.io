@@ -54,8 +54,8 @@ Selected coursework
   * BE 5210 Brain-Computer Interfaces - A
   * CIS 5110 Theory of Computation - A
   * CIS 5450 Big Data Analytics - A
-  * CIS 5020 Analysis of Algorithms - A
-  * CIS 5150 Fundamentals of Linear Algebra and Optimization - A
+  * CIS 5020 Analysis of Algorithms - In Progress
+  * CIS 5150 Fundamentals of Linear Algebra and Optimization - In Progress
 * Wake Forest University - Mathematics
   * MST 117 Discrete Mathematics - A
   * MST 121 Linear Algebra I - A-

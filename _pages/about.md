@@ -178,8 +178,8 @@ Selected Coursework
       <li>BE 5210 Brain-Computer Interfaces - A</li>
       <li>CIS 5110 Theory of Computation - A</li>
       <li>CIS 5450 Big Data Analytics - A</li>
-      <li>CIS 5020 Analysis of Algorithms - A</li>
-      <li>CIS 5150 Fundamentals of Linear Algebra and Optimization - A</li>
+      <li>CIS 5020 Analysis of Algorithms - In Progress</li>
+      <li>CIS 5150 Fundamentals of Linear Algebra and Optimization - In Progress</li>
     </ul>
   </div>
   <div class="course-group">
